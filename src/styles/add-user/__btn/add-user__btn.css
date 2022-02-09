@@ -1,0 +1,17 @@
+.add-user__btn {
+    max-width: 200px;
+    padding: 10px 25px;
+    border: 1px solid #b4b4b4fa;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 1.21;
+    font-weight: 400;
+    color: #fff;
+    background-color: #208A17;
+    box-sizing: border-box;
+}
+
+.add-user__btn:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}

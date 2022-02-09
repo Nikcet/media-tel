@@ -1,0 +1,11 @@
+body {
+    background-color: #F9F9F9;
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}

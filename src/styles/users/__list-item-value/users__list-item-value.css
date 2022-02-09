@@ -1,0 +1,5 @@
+.users__list-item-value {
+    width: 40%;
+    align-self: center;
+    min-width: 250px;
+}

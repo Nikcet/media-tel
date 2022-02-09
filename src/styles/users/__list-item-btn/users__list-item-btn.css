@@ -1,0 +1,15 @@
+.users__list-item-btn {
+    background-color: #823B8F;
+    color: #fff;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    outline: none;
+    margin: 0 10px;
+}
+
+.users__list-item-btn:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}

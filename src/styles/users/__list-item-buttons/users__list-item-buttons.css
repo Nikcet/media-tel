@@ -1,0 +1,5 @@
+.users__list-item-buttons {
+    display: flex;
+    min-width: 10%;
+    justify-content: end;
+}
