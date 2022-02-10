@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function AddUser() {
   return (
     <div className="add-user">
@@ -25,7 +27,9 @@ export default function AddUser() {
                 className="add-user__input add-user__input-city"
               />
             </div>
-            <button type="submit" className="add-user__btn">Добавить</button>
+            <button type="submit" className="add-user__btn">
+              Добавить
+            </button>
           </form>
         </div>
       </div>

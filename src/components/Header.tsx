@@ -5,7 +5,9 @@ export default function Header() {
         <div className="header__account">
           <p className="header__account-name">Иванов Иван Иванович</p>
         </div>
-        <button className="header__btn-logout">Выйти</button>
+        <button className="header__btn-logout" type="button">
+          Выйти
+        </button>
       </div>
     </div>
   );
