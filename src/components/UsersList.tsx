@@ -1,8 +1,17 @@
+import React from "react";
+import { useHistory } from "react-router-dom";
+
 export default function UsersList() {
+  const history = useHistory();
+
+  function routeToAddUserPage() {
+    history.push('/add-user');
+  }
+
   return (
     <div className="users">
       <div className="users__wrap">
-        <button className="users__add-user-btn">Добавить пользователя</button>
+        <button className="users__add-user-btn" onClick={routeToAddUserPage}>Добавить пользователя</button>
         <div className="users__list">
           <div className="users__list-filters">
             <button className="users__list-filter users__list-filter-fio">
