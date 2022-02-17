@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/media-tel/static/css/main.0c335486.css",
+    "main.js": "/media-tel/static/js/main.7ffa8aab.js",
+    "index.html": "/media-tel/index.html",
+    "main.0c335486.css.map": "/media-tel/static/css/main.0c335486.css.map",
+    "main.7ffa8aab.js.map": "/media-tel/static/js/main.7ffa8aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c335486.css",
+    "static/js/main.7ffa8aab.js"
+  ]
+}
