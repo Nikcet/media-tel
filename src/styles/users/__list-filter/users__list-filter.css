@@ -1,0 +1,13 @@
+.users__list-filter {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 20%;
+    min-width: 200px;
+}
+
+.users__list-filter:hover {
+    cursor: pointer;
+}

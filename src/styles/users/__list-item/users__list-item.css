@@ -1,0 +1,7 @@
+.users__list-item {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 10px 15px;
+    margin: 0 auto;
+}

@@ -1,0 +1,7 @@
+.aside__image-wrap {
+    width: 5rem;
+    height: 5rem; /* вынужденно, пока нет изображения */
+    margin-bottom: 16px;
+    border-radius: 100%;
+    background-color: #208A17;
+}

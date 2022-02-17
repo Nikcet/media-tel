@@ -1,0 +1,4 @@
+.users__list-item-text {
+    display: flex;
+    flex-grow: 1;
+}

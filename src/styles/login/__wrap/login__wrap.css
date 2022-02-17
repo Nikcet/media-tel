@@ -1,0 +1,6 @@
+.login__wrap {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    width: 50%;
+}

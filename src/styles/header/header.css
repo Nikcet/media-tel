@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    background-color: inherit;
+    border-bottom: 1px solid #D7D7D7;
+    padding: 14px 0;
+}

@@ -1,0 +1,72 @@
+@import url(styles/page/page.css);
+@import url(styles/root.css);
+
+/* Login component */
+@import url(styles/login/login.css);
+@import url(styles/login/__form-wrap/login__form-wrap.css);
+@import url(styles/login/__form/login__form.css);
+@import url(styles/login/__header/login__header.css);
+@import url(styles/login/__input-login/login__input-login.css);
+@import url(styles/login/__input-password/login__input-password.css);
+@import url(styles/login/__input/login__input.css);
+@import url(styles/login/__label/login__label.css);
+@import url(styles/login/__submit-btn/login__submit-btn.css);
+@import url(styles/login/__wrap/login__wrap.css);
+@import url(styles/login/__submit-btn/_disabled/login__submit-btn_disabled.css);
+
+/* Header component */
+@import url(styles/header/header.css);
+@import url(styles/header/__wrap/header__wrap.css);
+@import url(styles/header/__account-name/header__account-name.css);
+@import url(styles/header/__account/header__account.css);
+@import url(styles/header/__btn-logout/header__btn-logout.css);
+
+/* Aside component */
+@import url(styles/aside/aside.css);
+@import url(styles/aside/__wrap/aside__wrap.css);
+@import url(styles/aside/__page-name/aside__page-name.css);
+@import url(styles/aside/__image/aside__image.css);
+@import url(styles/aside/__image-wrap/aside__image-wrap.css);
+
+
+/* Users component */
+@import url(styles/users/users.css);
+@import url(styles/users/__wrap/users__wrap.css);
+@import url(styles/users/__add-user-btn/users__add-user-btn.css);
+@import url(styles/users/__arrow/users__arrow.css);
+@import url(styles/users/__list-filter-city/users__list-filter-city.css);
+@import url(styles/users/__list-filter-fio/users__list-filter-fio.css);
+@import url(styles/users/__list-filter/users__list-filter.css);
+@import url(styles/users/__list-filters/users__list-filters.css);
+@import url(styles/users/__list-item-btn/users__list-item-btn.css);
+@import url(styles/users/__list-item/users__list-item.css);
+@import url(styles/users/__list-items/users__list-items.css);
+@import url(styles/users/__list/users__list.css);
+@import url(styles/users/__nav-button/users__nav-button.css);
+@import url(styles/users/__nav-buttons/users__nav-buttons.css);
+@import url(styles/users/__list-item-buttons/users__list-item-buttons.css);
+@import url(styles/users/__list-item-text/users__list-item-text.css);
+@import url(styles/users/__list-item-value/users__list-item-value.css);
+
+
+/* AddUser component */
+@import url(styles/add-user/add-user.css);
+@import url(styles/add-user/__wrap/add-user__wrap.css);
+@import url(styles/add-user/__label/add-user__label.css);
+@import url(styles/add-user/__btn/add-user__btn.css);
+@import url(styles/add-user/__form-wrap/add-user__form-wrap.css);
+@import url(styles/add-user/__form/add-user__form.css);
+@import url(styles/add-user/__header/add-user__header.css);
+@import url(styles/add-user/__input/add-user__input.css);
+
+/* ModalWindow Component */
+@import url(styles/modal/modal.css);
+@import url(styles/modal/__title/modal__title.css);
+@import url(styles/modal/__header/modal__header.css);
+@import url(styles/modal/__dialog/modal__dialog.css);
+@import url(styles/modal/__delete-btn/modal__delete-btn.css);
+@import url(styles/modal/__content/modal__content.css);
+@import url(styles/modal/__close/modal_close.css);
+@import url(styles/modal/__cancel-btn/modal__cancel-btn.css);
+@import url(styles/modal/__body/modal__body.css);
+@import url(styles/modal/__btn/modal__btn.css);
