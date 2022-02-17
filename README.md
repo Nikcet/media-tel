@@ -1,7 +1,7 @@
 # Classic React app for Media Tel Company
 
 
-~~[**Link to Pages - https://nikcet.github.io/media-tel**](https://nikcet.github.io/media-tel/)~~
+~~[**Link to Pages - https://nikcet.github.io/media-tel**](https://nikcet.github.io/media-tel/)~~\
 P.s. Проект не работает по ссылке, так как GitHub Pages не поддерживает работу с React Router. Решение есть, но оно будет добавлено в течение нескольких дней.
 
 
