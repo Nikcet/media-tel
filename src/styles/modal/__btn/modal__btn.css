@@ -1,23 +1,17 @@
-.add-user__btn {
-    max-width: 200px;
-    min-width: 150px;
+.modal__btn {
     padding: 10px 25px;
     border: 1px solid #b4b4b4fa;
     border-radius: 5px;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.21;
     font-weight: 400;
     color: #fff;
     background-color: #208A17;
     box-sizing: border-box;
-    margin-right: 16px;
+    margin-right: 15px;
 }
 
-.add-user__btn:hover {
+.modal__btn:hover {
     cursor: pointer;
     opacity: 0.8;
-}
-
-.add-user__btn:last-of-type {
-    margin: 0;
 }

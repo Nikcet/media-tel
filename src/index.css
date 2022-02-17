@@ -58,3 +58,15 @@
 @import url(styles/add-user/__form/add-user__form.css);
 @import url(styles/add-user/__header/add-user__header.css);
 @import url(styles/add-user/__input/add-user__input.css);
+
+/* ModalWindow Component */
+@import url(styles/modal/modal.css);
+@import url(styles/modal/__title/modal__title.css);
+@import url(styles/modal/__header/modal__header.css);
+@import url(styles/modal/__dialog/modal__dialog.css);
+@import url(styles/modal/__delete-btn/modal__delete-btn.css);
+@import url(styles/modal/__content/modal__content.css);
+@import url(styles/modal/__close/modal_close.css);
+@import url(styles/modal/__cancel-btn/modal__cancel-btn.css);
+@import url(styles/modal/__body/modal__body.css);
+@import url(styles/modal/__btn/modal__btn.css);

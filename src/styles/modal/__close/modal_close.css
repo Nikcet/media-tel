@@ -1,0 +1,8 @@
+.modal__close {
+    font-size: 30px;
+}
+
+.modal__close:hover {
+    cursor: pointer;
+    opacity: .5;
+}
